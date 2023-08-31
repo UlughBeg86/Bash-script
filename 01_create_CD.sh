@@ -1,5 +1,5 @@
 #!/bin/bash
-#create by rd: rishat.dilmurat
+#create by RD: Rishat Dilmurat
 
 #find corresponding chk,log,com and pbs files  
 
